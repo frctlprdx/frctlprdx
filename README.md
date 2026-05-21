@@ -29,7 +29,7 @@ Learning iOS development using SwiftUI
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 Here is a quick look at my open-source contributions and coding activity:
 
@@ -42,7 +42,7 @@ Here is a quick look at my open-source contributions and coding activity:
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iivanpratama16)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iivanpratamaa)
