@@ -39,4 +39,4 @@ Here is a quick look at my open-source contributions and coding activity:
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/iivanpratama16/)) ```
+- 💼 [LinkedIn]([https://linkedin.com/in/iivanpratama16]) ```
