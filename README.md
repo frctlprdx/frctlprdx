@@ -24,7 +24,7 @@ Learning iOS development using SwiftUI
 **Data Science**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Others**
+**Other Tools**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
