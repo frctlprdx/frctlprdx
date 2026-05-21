@@ -32,8 +32,8 @@ Learning iOS development using SwiftUI
 Here is a quick look at my open-source contributions and coding activity:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=frctlprdx&show_icons=true&theme=tokyonight&count_private=true" alt="frctlprdx's GitHub Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frctlprdx&theme=tokyonight&layout=compact&langs_count=7" alt="frctlprdx's Top Languages" height="192px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=frctlprdx&show_icons=true&theme=tokyonight&count_private=true" alt="frctlprdx's GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frctlprdx&theme=tokyonight&layout=compact&langs_count=7" alt="frctlprdx's Top Languages" height="192px" />
 </p>
 
 ---
